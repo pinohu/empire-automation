@@ -75,6 +75,13 @@ dump.rdb
 # OS
 Thumbs.db
 
+# Credentials and secrets
+credentials/*.json
+*.key
+*.pem
+*.p12
+*.pfx
+
 
 # Credentials and secrets
 credentials/*.json
