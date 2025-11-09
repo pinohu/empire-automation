@@ -84,7 +84,7 @@ app.add_exception_handler(Exception, general_exception_handler)
 # Configure CORS
 cors_origins = os.getenv(
     "CORS_ORIGINS",
-    "http://localhost:8501,http://localhost:3000,http://127.0.0.1:8501"
+    "http://localhost:8501,http://localhost:3000,http://127.0.0.1:8501,https://frontend-m9mimxfbk-polycarpohu-gmailcoms-projects.vercel.app,https://frontend-ko7gn5kjv-polycarpohu-gmailcoms-projects.vercel.app,https://*.vercel.app"
 ).split(",")
 
 app.add_middleware(
