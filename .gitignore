@@ -75,3 +75,16 @@ dump.rdb
 # OS
 Thumbs.db
 
+
+# Credentials and secrets
+credentials/*.json
+*.json
+!package.json
+!package-lock.json
+!tsconfig.json
+.env
+.env.local
+*.key
+*.pem
+*.p12
+*.pfx
