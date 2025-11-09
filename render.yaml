@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: empire-automation-api
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python start_api.py
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: CORS_ORIGINS
+        value: http://localhost:3000,https://frontend-m9mimxfbk-polycarpohu-gmailcoms-projects.vercel.app,https://*.vercel.app
+      - key: PLAN_START_DATE
+        value: 2024-01-01
+      - key: ENVIRONMENT
+        value: production
+
