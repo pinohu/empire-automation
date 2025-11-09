@@ -1,0 +1,69 @@
+================================================================================
+                    START BACKEND SERVER - SIMPLE STEPS
+================================================================================
+
+YOU ARE SEEING ERRORS BECAUSE THE BACKEND IS NOT RUNNING!
+
+Follow these steps to start it:
+
+================================================================================
+METHOD 1: DOUBLE-CLICK (EASIEST!)
+================================================================================
+
+1. Open File Explorer
+2. Navigate to: C:\Users\polyc\Documents\Empire\empire-automation
+3. Find the file: START_BACKEND.bat
+4. DOUBLE-CLICK IT
+5. A black window will open - KEEP IT OPEN!
+6. Wait for message: "Uvicorn running on http://0.0.0.0:8000"
+7. Go back to your browser and refresh (F5)
+
+================================================================================
+METHOD 2: MANUAL COMMANDS
+================================================================================
+
+1. Press Win + X
+2. Select "Windows PowerShell" or "Terminal"
+3. Copy and paste these commands ONE AT A TIME:
+
+   cd C:\Users\polyc\Documents\Empire\empire-automation
+
+   .\venv\Scripts\Activate.ps1
+
+   python start_api.py
+
+4. Wait for: "Uvicorn running on http://0.0.0.0:8000"
+5. KEEP THIS WINDOW OPEN!
+6. Go back to browser and refresh (F5)
+
+================================================================================
+VERIFY IT'S WORKING
+================================================================================
+
+After starting, open in your browser:
+http://localhost:8000/api/health
+
+Should show:
+{"status": "healthy", "timestamp": "...", "service": "empire-automation-api"}
+
+================================================================================
+IMPORTANT NOTES
+================================================================================
+
+✓ Keep the backend window OPEN - closing it stops the server
+✓ Backend must run CONTINUOUSLY - it's a server, not a one-time script
+✓ Use SEPARATE terminal for frontend - don't close backend window
+✓ Wait 3-5 seconds after starting before refreshing frontend
+
+================================================================================
+AFTER BACKEND STARTS
+================================================================================
+
+1. Wait 3-5 seconds
+2. Go to: http://localhost:3000
+3. Press Ctrl+Shift+R (hard refresh)
+4. Status bar should turn GREEN: "✅ API Connected"
+5. All "Failed to fetch" errors will disappear!
+
+================================================================================
+

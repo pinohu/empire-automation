@@ -1,0 +1,435 @@
+{
+  "entities": [
+    {
+      "name": "Obuke LLC",
+      "state": "Wyoming",
+      "type": "Parent Entity",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 1",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 2",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 3",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 4",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 5",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 6",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 7",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 8",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 9",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Obuke LLC Series 10",
+      "state": "Wyoming",
+      "type": "Series LLC",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Kwode LLC",
+      "state": "Wyoming",
+      "type": "Equipment Holding Company",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "CXI LLC",
+      "state": "Wyoming",
+      "type": "IP Holding Company",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "PNR Holdings LLC",
+      "state": "Wyoming",
+      "type": "Master Holding Company",
+      "ein": "",
+      "annual_report_due": "MM/DD",
+      "fee": 112,
+      "status": "delinquent"
+    },
+    {
+      "name": "Keystone Transaction Specialists LLC",
+      "state": "Pennsylvania",
+      "type": "Operating Company",
+      "ein": "",
+      "annual_report_due": "",
+      "fee": 0,
+      "status": "planned",
+      "formation_month": 2
+    },
+    {
+      "name": "Commonwealth Mortgage Solutions LLC",
+      "state": "Pennsylvania",
+      "type": "Operating Company",
+      "ein": "",
+      "annual_report_due": "",
+      "fee": 0,
+      "status": "planned",
+      "formation_month": 4
+    },
+    {
+      "name": "TaxEar LLC",
+      "state": "Pennsylvania",
+      "type": "Operating Company",
+      "ein": "",
+      "annual_report_due": "",
+      "fee": 0,
+      "status": "planned",
+      "formation_month": 5
+    },
+    {
+      "name": "SubTo TC Directory LLC",
+      "state": "Pennsylvania",
+      "type": "Operating Company",
+      "ein": "",
+      "annual_report_due": "",
+      "fee": 0,
+      "status": "planned",
+      "formation_month": 4
+    },
+    {
+      "name": "Keystones Capital LLC",
+      "state": "Pennsylvania",
+      "type": "Operating Company",
+      "ein": "",
+      "annual_report_due": "",
+      "fee": 0,
+      "status": "planned",
+      "formation_month": 6
+    },
+    {
+      "name": "Empire Ventures LLC",
+      "state": "Pennsylvania",
+      "type": "Operating Company",
+      "ein": "",
+      "annual_report_due": "",
+      "fee": 0,
+      "status": "planned",
+      "formation_month": 6
+    }
+  ],
+  "credentials": [
+    {
+      "name": "Pennsylvania Notary Public Commission",
+      "type": "license",
+      "status": "active",
+      "required_for": [],
+      "timeline": "immediate",
+      "cost": 0,
+      "revenue_potential": "3000-6000_monthly"
+    },
+    {
+      "name": "NN/g UX Research Certification",
+      "type": "certification",
+      "status": "active",
+      "required_for": [],
+      "timeline": "immediate",
+      "cost": 0,
+      "revenue_potential": "10000-20000_monthly"
+    },
+    {
+      "name": "NN/g UX Management Certification",
+      "type": "certification",
+      "status": "active",
+      "required_for": [],
+      "timeline": "immediate",
+      "cost": 0,
+      "revenue_potential": "10000-20000_monthly"
+    },
+    {
+      "name": "Full Professor of Engineering",
+      "type": "position",
+      "status": "active",
+      "required_for": [],
+      "timeline": "immediate",
+      "cost": 0,
+      "revenue_potential": "credibility_multiplier"
+    },
+    {
+      "name": "SubTo Community Full Membership",
+      "type": "membership",
+      "status": "active",
+      "required_for": [],
+      "timeline": "immediate",
+      "cost": 0,
+      "revenue_potential": "market_access"
+    },
+    {
+      "name": "Notary Signing Agent (NSA) Certification",
+      "type": "certification",
+      "status": "in_progress",
+      "required_for": [],
+      "timeline": "week_1_2",
+      "cost": 0,
+      "revenue_potential": "150-200_per_signing"
+    },
+    {
+      "name": "SubTo Transaction Coordinator Certification",
+      "type": "certification",
+      "status": "in_progress",
+      "required_for": ["Keystone Transaction Specialists"],
+      "timeline": "week_1_2",
+      "cost": 0,
+      "revenue_potential": "15000-30000_monthly"
+    },
+    {
+      "name": "Pennsylvania Real Estate License",
+      "type": "license",
+      "status": "planned",
+      "required_for": ["Keystone Transaction Specialists"],
+      "timeline": "month_1",
+      "cost": 500,
+      "revenue_potential": "unlocks_tc_services"
+    },
+    {
+      "name": "NMLS Mortgage Loan Originator (MLO) License",
+      "type": "license",
+      "status": "planned",
+      "required_for": ["Commonwealth Mortgage Solutions"],
+      "timeline": "month_4_5",
+      "cost": 1000,
+      "revenue_potential": "8000-12000_monthly"
+    },
+    {
+      "name": "IRS Enrolled Agent (EA)",
+      "type": "license",
+      "status": "planned",
+      "required_for": ["TaxEar"],
+      "timeline": "month_5",
+      "cost": 1500,
+      "revenue_potential": "10000-25000_monthly"
+    }
+  ],
+  "ninety_day_plan": {
+    "week_1": {
+      "day_1": {
+        "date_offset": 0,
+        "tasks": [
+          {
+            "id": "w1d1-1",
+            "description": "File annual reports for 13 Wyoming entities",
+            "agent": "entity_manager",
+            "cost": 1456,
+            "owner_required": true,
+            "estimated_hours": 2,
+            "status": "pending"
+          },
+          {
+            "id": "w1d1-2",
+            "description": "Complete SubTo TC Modules 1-2",
+            "agent": "credential_acquisition",
+            "cost": 0,
+            "owner_required": true,
+            "estimated_hours": 1.5,
+            "status": "pending"
+          },
+          {
+            "id": "w1d1-3",
+            "description": "Continue NSA coursework",
+            "agent": "credential_acquisition",
+            "cost": 0,
+            "owner_required": true,
+            "estimated_hours": 1.5,
+            "status": "pending"
+          },
+          {
+            "id": "w1d1-4",
+            "description": "Join Notary Rotary and create profiles",
+            "agent": "professional_services",
+            "cost": 20,
+            "owner_required": false,
+            "estimated_hours": 0.5,
+            "status": "pending"
+          }
+        ]
+      }
+    }
+  },
+  "revenue_targets": {
+    "year_1": {
+      "professional_services": {
+        "min": 560000,
+        "max": 1085000
+      },
+      "directories": {
+        "min": 180000,
+        "max": 300000
+      },
+      "acquisitions": {
+        "min": 300000,
+        "max": 700000
+      },
+      "total": {
+        "min": 1040000,
+        "max": 2085000
+      }
+    },
+    "year_2": {
+      "total": {
+        "min": 2500000,
+        "max": 4500000
+      }
+    },
+    "year_3": {
+      "total": {
+        "min": 10000000,
+        "max": 20000000
+      }
+    }
+  },
+  "services": {
+    "transaction_coordination": {
+      "tier_1": {
+        "name": "SubTo Transaction Coordination",
+        "price_min": 1200,
+        "price_max": 1500
+      },
+      "tier_2": {
+        "name": "Premium SubTo Coordination",
+        "price_min": 1800,
+        "price_max": 2200
+      },
+      "tier_3": {
+        "name": "Full-Service Package",
+        "price_min": 3000,
+        "price_max": 3500
+      }
+    },
+    "mortgage_services": {
+      "seller_financing": {
+        "price_min": 1500,
+        "price_max": 2500
+      },
+      "wraparound_mortgage": {
+        "price_min": 2000,
+        "price_max": 3000
+      },
+      "compliance_review": {
+        "price_min": 1200,
+        "price_max": 1200
+      }
+    },
+    "tax_services": {
+      "tax_preparation": {
+        "individual": {
+          "price_min": 800,
+          "price_max": 1500
+        },
+        "business": {
+          "price_min": 1000,
+          "price_max": 3000
+        }
+      },
+      "irs_representation": {
+        "hourly": {
+          "price_min": 250,
+          "price_max": 400
+        }
+      },
+      "entity_structuring": {
+        "price_min": 1500,
+        "price_max": 3000
+      },
+      "tax_advisory": {
+        "hourly": {
+          "price_min": 300,
+          "price_max": 500
+        },
+        "monthly_retainer": {
+          "price_min": 1500,
+          "price_max": 3000
+        }
+      }
+    },
+    "notary_services": {
+      "general_notarization": {
+        "price_min": 75,
+        "price_max": 150
+      },
+      "loan_signing": {
+        "price_min": 150,
+        "price_max": 200
+      }
+    }
+  }
+}
+

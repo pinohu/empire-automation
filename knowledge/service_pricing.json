@@ -1,0 +1,75 @@
+{
+  "transaction_coordination": {
+    "tier_1": {
+      "name": "SubTo Transaction Coordination",
+      "price_min": 1200,
+      "price_max": 1500
+    },
+    "tier_2": {
+      "name": "Premium SubTo Coordination",
+      "price_min": 1800,
+      "price_max": 2200
+    },
+    "tier_3": {
+      "name": "Full-Service Package",
+      "price_min": 3000,
+      "price_max": 3500
+    }
+  },
+  "mortgage_services": {
+    "seller_financing": {
+      "price_min": 1500,
+      "price_max": 2500
+    },
+    "wraparound_mortgage": {
+      "price_min": 2000,
+      "price_max": 3000
+    },
+    "compliance_review": {
+      "price_min": 1200,
+      "price_max": 1200
+    }
+  },
+  "tax_services": {
+    "tax_preparation": {
+      "individual": {
+        "price_min": 800,
+        "price_max": 1500
+      },
+      "business": {
+        "price_min": 1000,
+        "price_max": 3000
+      }
+    },
+    "irs_representation": {
+      "hourly": {
+        "price_min": 250,
+        "price_max": 400
+      }
+    },
+    "entity_structuring": {
+      "price_min": 1500,
+      "price_max": 3000
+    },
+    "tax_advisory": {
+      "hourly": {
+        "price_min": 300,
+        "price_max": 500
+      },
+      "monthly_retainer": {
+        "price_min": 1500,
+        "price_max": 3000
+      }
+    }
+  },
+  "notary_services": {
+    "general_notarization": {
+      "price_min": 75,
+      "price_max": 150
+    },
+    "loan_signing": {
+      "price_min": 150,
+      "price_max": 200
+    }
+  }
+}
